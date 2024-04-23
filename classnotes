@@ -1,0 +1,30 @@
+what is html (hyper text markup language)
+hyper means its a link
+
+Tags 
+Attributes
+
+element is a collection  of tags
+html page extension 
+.html ,
+we need install extension live server
+
+one ip adress it will run 
+in local also it will run if we double click
+
+Document Tags
+1 html, head body 
+2 document structure tags are 
+div , article , section, head 
+image - img, table <tr></tr>
+text formating tags h1, h2 ,---- h6, bold strong, span underline, p , a
+form tags <form></form> <label></label>  <input />
+<iframe></iframe>
+<video ></video>
+<canvas></canvas>
+ list tags ul li ol 
+ link <a></a>
+
+
+  <!-- all tags -->
+  html ,head, body, img, div, button, li, p, h1, h2,--- <h6>section <textarea></h6>
