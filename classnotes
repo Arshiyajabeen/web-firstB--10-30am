@@ -28,3 +28,18 @@ form tags <form></form> <label></label>  <input />
 
   <!-- all tags -->
   html ,head, body, img, div, button, li, p, h1, h2,--- <h6>section <textarea></h6>
+
+
+
+
+    command for the git
+      git init
+       git remote add origin
+       git config --global user.name "Arshiya jabeen".
+       
+       git config --global user.email "jarshiya02@gmail"
+       git add .
+
+git commit -m "first commit"
+
+git push -u origin main     
